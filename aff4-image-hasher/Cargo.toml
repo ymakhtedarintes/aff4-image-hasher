@@ -1,0 +1,9 @@
+[package]
+name = "aff4-image-hasher"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+aff4 = "0.2.6"
+aff4-forensic = "0.1.2"
+sha2 = "0.11.1"
